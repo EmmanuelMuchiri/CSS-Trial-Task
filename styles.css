@@ -1,0 +1,7 @@
+/* Responsive layout for all devices */
+@media (max-width: 768px) {
+    .container {
+      grid-template-rows: auto 1fr auto;
+      padding: 0 20px;
+    }
+  }
